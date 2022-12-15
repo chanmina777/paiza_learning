@@ -6,7 +6,7 @@ int main(void)
     char str[] = "paiza";
 
     int i = 0;
-    while (str[i] != '\0') {
+    while (str[i] != '\0') {   //ヌル文字が出るまで続けるというイメージ
         i++;
     }
 
